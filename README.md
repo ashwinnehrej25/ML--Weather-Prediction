@@ -137,5 +137,10 @@ for target in targets:
 ## Output:
 
 <img width="1662" height="782" alt="564520733-3effdb17-bd73-4516-af79-09abb8305349" src="https://github.com/user-attachments/assets/c1e6a698-70fd-4499-a6ab-43a07074b572" />
+<img width="1599" height="605" alt="564520822-43cbfb45-205f-45b5-aa17-4e0adb73029d" src="https://github.com/user-attachments/assets/7813b594-b848-4bd6-bd12-d1d487e81c9c" />
+<img width="1638" height="770" alt="564520856-025979fd-c7eb-4d27-adee-4a61b2192634" src="https://github.com/user-attachments/assets/4093f0c8-2dd8-419a-9285-c6a8896fc046" />
+
+
 
 ## Result:
+executed successfully
